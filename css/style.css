@@ -1,0 +1,52 @@
+@import url(//db.onlinewebfonts.com/c/e5f78b4fb90a80a32be156470cbfead1?family=Avenir+LT+Pro);
+@font-face {font-family: "Avenir LT Pro"; src: url("//db.onlinewebfonts.com/t/e5f78b4fb90a80a32be156470cbfead1.eot"); src: url("//db.onlinewebfonts.com/t/e5f78b4fb90a80a32be156470cbfead1.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/e5f78b4fb90a80a32be156470cbfead1.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/e5f78b4fb90a80a32be156470cbfead1.woff") format("woff"), url("//db.onlinewebfonts.com/t/e5f78b4fb90a80a32be156470cbfead1.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/e5f78b4fb90a80a32be156470cbfead1.svg#Avenir LT Pro") format("svg"); }
+
+.text1 {
+    font-size: 60%;
+}
+
+.text2 {
+    font-family: 'Avenir Lt Pro';
+}
+
+.text3 {
+    font-size: 5em;
+}
+
+.button {
+    background-color: #ff3c3c;
+    color: rgb(0, 0, 0);
+    padding: 40px;
+    border-color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button2 {
+    background-color: #3cb7ff;
+    color: rgb(0, 0, 0);
+    padding: 40px;
+    border-color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button3 {
+    background-color: #dbff3c;
+    color: rgb(0, 0, 0);
+    padding: 40px;
+    border-color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button1 {border-radius: 50%;}
